@@ -6,6 +6,8 @@
 
 Welcome to REChain.Store, the official digital marketplace provided by rechain.RU. This platform serves as a versatile hub for downloading, distributing, and managing software across various platforms such as iOS, Android, Windows, and Linux. It focuses on delivering secure, open-source solutions, making it a reliable choice for users and developers alike.
 
+![badge](https://github.com/user-attachments/assets/22bbd2bd-011d-4547-b2a8-b8ee85d45232)
+
 ## Table of Contents
 
 - [Platform Overview](#platform-overview)
